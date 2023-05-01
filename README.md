@@ -33,10 +33,6 @@ Thank you for stopping by.
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad871&theme=monokai"
             alt="Mahad871's Github commit streak">
     </a>
-    <a href="https://wakatime.com/@Mahad871">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahad871&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="Mahad871's wakatime last year stats">
-    </a>
 </div>
 
 ---
