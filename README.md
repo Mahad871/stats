@@ -34,10 +34,7 @@
 </center>
 
 <!--START_SECTION:waka-->
-<center>
-    <img src="https://wakatime.com/share/@Mahad871/6af980c1-4e10-4d2d-966a-b58972fc033e.svg" alt="languages" height=400>
-</center>
-
+<img src="https://wakatime.com/share/@Mahad871/6af980c1-4e10-4d2d-966a-b58972fc033e.svg" alt="languages" align="middle" height=400>
 <!--END_SECTION:waka-->
 ---
 
