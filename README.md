@@ -44,7 +44,7 @@ Thank you for stopping by.
 ## **🏆 Achievements**
 
 <div align="center" style="text-align:center">
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
+<img src="https://github-profile-trophy.vercel.app/?username=Mahad871&theme=dracula" /><br />
 </div>
 
 ---
