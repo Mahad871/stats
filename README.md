@@ -56,7 +56,6 @@ Thank you for stopping by.
         <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
             alt="Mahad871's Wakatime">
     </a>
-    
     <a href="https://www.linkedin.com/in/mahad-saleem-9a74b9226">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Mahad871's LinkedIn">
