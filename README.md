@@ -38,9 +38,9 @@ Thank you for stopping by.
             alt="Mahad871's wakatime last year stats">
     </a>
 </div>
-
+## **🏆 Achievements**
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
 ---
-
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
@@ -61,7 +61,7 @@ Thank you for stopping by.
             alt="Mahad871's LinkedIn">
     </a>
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
+
 ---
 
 <br>
