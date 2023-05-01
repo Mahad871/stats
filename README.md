@@ -57,7 +57,7 @@ Thank you for stopping by.
             alt="Mahad871's Wakatime">
     </a>
     
-    <a href="https://www.linkedin.com/in/jose-gracia/">
+    <a href="https://www.linkedin.com/in/mahad-saleem-9a74b9226">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Mahad871's LinkedIn">
     </a>
