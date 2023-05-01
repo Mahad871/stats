@@ -42,7 +42,7 @@
 ## **📊 Languages**
 <!--START_SECTION:waka-->
 <div align="center" style="text-align:center">
-    <img src="https://wakatime.com/share/@Mahad871/6af980c1-4e10-4d2d-966a-b58972fc033e.svg" alt="languages" align="middle" height=400>
+    <img src="https://wakatime.com/share/@Mahad871/f5da3a37-e2d9-430e-bef4-aa33a8170b7e.svg" alt="languages" align="middle" height=400>
 </div>
 <!--END_SECTION:waka-->
 ---
