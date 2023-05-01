@@ -31,7 +31,7 @@ Thank you for stopping by.
             alt="Mahad871's Github commit streak">
     </a>
 </div>
-<img src="https://github.com/hassan-zafar/hassan-zafar/raw/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://github.com/Mahad871/hassan-zafar/raw/output/github-contribution-grid-snake.svg" alt="snake">
 ---
 
 ## **🏆 Achievements**
