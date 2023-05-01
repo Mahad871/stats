@@ -23,11 +23,11 @@ Thank you for stopping by.
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahad871&show_icons=true&theme=monokai&count_private=true"
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mahad871&show_icons=true&theme=monokai&count_private=true"
             alt="Mahad871's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad871&theme=monokai"
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad871&theme=monokai"
             alt="Mahad871's Github commit streak">
     </a>
 </div>
