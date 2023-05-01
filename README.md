@@ -44,29 +44,26 @@ Thank you for stopping by.
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
-    <a href="mailto:jgracia9988@gmail.com">
+    <a href="mailto:ms.asd871@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Josee9988's Gmail">
+            alt="Mahad871's Gmail">
     </a>
     <a href="https://stackoverflow.com/users/9630043/jose998/">
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
-            alt="Josee9988's StackOverflow">
+            alt="Mahad871's StackOverflow">
     </a>
-    <a href="https://wakatime.com/@Josee9988/">
+    <a href="https://wakatime.com/@Mahad871">
         <img src="https://img.shields.io/badge/-WakaTime-c14430?style=for-the-badge&logo=Wakatime&logoColor=white@Josee9988&color=green"
-            alt="Josee9988's Wakatime">
+            alt="Mahad871's Wakatime">
     </a>
-    <a href="https://profile.codersrank.io/user/josee9988/">
-        <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
-            alt="Josee9988's CodersRank">
-    </a>
+    
     <a href="https://www.linkedin.com/in/jose-gracia/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Josee9988's LinkedIn">
+            alt="Mahad871's LinkedIn">
     </a>
     <a href="https://dev.to/josee9988">
         <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="Josee9988's dev.to">
+            alt="Mahad871's dev.to">
     </a>
 </div>
 
