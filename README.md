@@ -3,9 +3,6 @@
 # Hi there, I'm **[Mahad Saleem](https://github.com/Mahad871)**! 👋
 
 I'm currently a third-year full-time **Computer Engineering student** (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**) at the UPV🧑‍🎓🎓.
-In addition to my degree, I have also completed a **Senior technician qualification in Web Applications Development** (**[DAW](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)**) and a **Technician qualification in Microcomputer Systems and Networks** (**[SMR](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
-
-On my website **[web portfolio (jgracia.es)](https://jgracia.es/)🧙‍♂️**, you can find more information about my career and professional background.
 
 Thank you for stopping by.
 
@@ -34,7 +31,7 @@ Thank you for stopping by.
             alt="Mahad871's Github commit streak">
     </a>
 </div>
-
+<img src="https://github.com/hassan-zafar/hassan-zafar/raw/output/github-contribution-grid-snake.svg" alt="snake">
 ---
 
 ## **🏆 Achievements**
