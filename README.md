@@ -31,7 +31,9 @@ Thank you for stopping by.
             alt="Mahad871's Github commit streak">
     </a>
 </div>
-![Snake animation](https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake">
+
 ---
 
 ## **🏆 Achievements**
