@@ -3,12 +3,10 @@
 # Hi there, I'm **[Mahad Saleem](https://github.com/Mahad871)**! 👋
 
 [![wakatime](https://wakatime.com/badge/user/0dcf0bfd-0b5e-4de4-a8e6-9a5afd9ec4a0.svg)](https://wakatime.com/@0dcf0bfd-0b5e-4de4-a8e6-9a5afd9ec4a0)
-<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Mahad871&label=Profile%20views&color=0e75b6&style=plastic" alt="Mahad871" /> 
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 <!-- 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="hassan-zafar" target="_blank"/>  -->
 	</a>
-</p>
 ---
 
 ## **😊 About me**
