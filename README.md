@@ -61,7 +61,7 @@ Thank you for stopping by.
             alt="Mahad871's LinkedIn">
     </a>
 </div>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
 ---
 
 <br>
