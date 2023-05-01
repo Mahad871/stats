@@ -29,9 +29,10 @@
             alt="Mahad871's Github commit streak">
     </a>
 </div>
-<center>
-<img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
-</center>
+<div align="center" style="text-align:center">
+    <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
+</div>
+
 
 <!--START_SECTION:waka-->
 <div align="center" style="text-align:center">
