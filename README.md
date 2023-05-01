@@ -33,7 +33,21 @@
 <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
 
 <!--START_SECTION:waka-->
-[![Hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)](https://github-readme-stats.vercel.app/api/wakatime?username=hassanzafar)
+
+```text
+From: 20 February 2023 - To: 30 April 2023
+
+Total Time: 115 hrs 38 mins
+
+Dart         90 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>-----   78.22 %
+C++          19 hrs 48 mins  >>>>---------------------   17.13 %
+YAML         1 hr 55 mins    -------------------------   01.67 %
+Groovy       1 hr 31 mins    -------------------------   01.31 %
+Bash         1 hr 8 mins     -------------------------   00.98 %
+XML          24 mins         -------------------------   00.35 %
+Other        9 mins          -------------------------   00.14 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
