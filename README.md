@@ -2,9 +2,7 @@
 
 # Hi there, I'm **[Mahad Saleem](https://github.com/Mahad871)**! 👋
 
-I'm currently a third-year full-time **Computer Engineering student** (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**) at the UPV🧑‍🎓🎓.
 
-Thank you for stopping by.
 
 ---
 
