@@ -29,11 +29,14 @@
             alt="Mahad871's Github commit streak">
     </a>
 </div>
+<br>
 <div align="center" style="text-align:center">
     <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
 </div>
+<br>
+---
 
-
+## **📊 Languages**
 <!--START_SECTION:waka-->
 <div align="center" style="text-align:center">
     <img src="https://wakatime.com/share/@Mahad871/6af980c1-4e10-4d2d-966a-b58972fc033e.svg" alt="languages" align="middle" height=400>
