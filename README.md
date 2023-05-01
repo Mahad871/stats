@@ -51,7 +51,7 @@ Thank you for stopping by.
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Mahad871's Gmail">
     </a>
-    <a href="https://stackoverflow.com/users/9630043/jose998/">
+    <a href="https://stackoverflow.com/users/13478513/mahad-saleem/">
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
             alt="Mahad871's StackOverflow">
     </a>
