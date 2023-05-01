@@ -32,6 +32,8 @@
 
 <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## **🏆 Achievements**
