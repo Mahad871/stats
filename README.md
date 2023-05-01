@@ -32,7 +32,7 @@ Thank you for stopping by.
     </a>
 </div>
 
-<img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
 
 ---
 
