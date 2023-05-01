@@ -29,11 +29,15 @@
             alt="Mahad871's Github commit streak">
     </a>
 </div>
-
+<center>
 <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
+</center>
 
 <!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@Mahad871/6af980c1-4e10-4d2d-966a-b58972fc033e.svg" alt="languages" align="center" height=400>
+<center>
+    <img src="https://wakatime.com/share/@Mahad871/6af980c1-4e10-4d2d-966a-b58972fc033e.svg" alt="languages" height=400>
+</center>
+
 <!--END_SECTION:waka-->
 ---
 
