@@ -60,14 +60,10 @@ Thank you for stopping by.
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Mahad871's LinkedIn">
     </a>
-    <a href="https://dev.to/josee9988">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-            alt="Mahad871's dev.to">
-    </a>
 </div>
 
 ---
 
 <br>
 
-_Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_
+_Made with a lot of ❤️❤️ by **[@Mahad871](https://github.com/Mahad871)**_
