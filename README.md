@@ -33,7 +33,7 @@
 <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
 
 <!--START_SECTION:waka-->
-[![Hassan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mahad871)](https://github-readme-stats.vercel.app/api/wakatime?username=Mahad871)
+<figure><embed src="https://wakatime.com/share/@Mahad871/6af980c1-4e10-4d2d-966a-b58972fc033e.svg"></embed></figure>
 <!--END_SECTION:waka-->
 ---
 
