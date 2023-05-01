@@ -37,6 +37,7 @@
     <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
 </div>
 <br>
+
 ---
 
 ## **📊 Languages**
@@ -45,6 +46,7 @@
     <img src="https://wakatime.com/share/@Mahad871/0c68d4be-28c4-4f4c-8c98-239abe4c2914.svg" alt="languages" align="middle" height=400>
 </div>
 <!--END_SECTION:waka-->
+
 ---
 
 ## **🏆 Achievements**
