@@ -59,6 +59,10 @@ Other        9 mins          -------------------------   00.14 %
 
 <!--END_SECTION:waka-->
 
+<div align="center" style="text-align:center">
+    <img src="https://wakatime.com/share/@Mahad871/0c68d4be-28c4-4f4c-8c98-239abe4c2914.svg" alt="languages" align="middle" height=400>
+</div>
+
 ---
 
 ## **🏆 Achievements**
