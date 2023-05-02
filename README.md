@@ -42,9 +42,21 @@
 
 ## **📊 Languages**
 <!--START_SECTION:waka-->
-<div align="center" style="text-align:center">
-    <img src="https://wakatime.com/share/@Mahad871/0c68d4be-28c4-4f4c-8c98-239abe4c2914.svg" alt="languages" align="middle" height=400>
-</div>
+
+```text
+From: 20 February 2023 - To: 01 May 2023
+
+Total Time: 116 hrs 16 mins
+
+Dart         90 hrs 27 mins  >>>>>>>>>>>>>>>>>>>------   77.79 %
+C++          20 hrs 26 mins  >>>>---------------------   17.58 %
+YAML         1 hr 55 mins    -------------------------   01.66 %
+Groovy       1 hr 31 mins    -------------------------   01.31 %
+Bash         1 hr 8 mins     -------------------------   00.98 %
+XML          24 mins         -------------------------   00.35 %
+Other        9 mins          -------------------------   00.14 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
