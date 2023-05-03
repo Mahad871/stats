@@ -12,9 +12,7 @@
 
 ## **😊 About me**
 
-- 🔭 I'm currently working on my Computer Science degree.
 - 🌱 I'm learning App Development.
-- 🤔 I'm looking for help finding a job while I finish my university degree.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
 
