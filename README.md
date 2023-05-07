@@ -99,4 +99,5 @@ Git Config   5 mins          -------------------------   00.07 %
 
 <br>
 
-_Made with a lot of ❤️❤️ by **[@Mahad871](https://github.com/Mahad871)**_
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
