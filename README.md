@@ -61,7 +61,7 @@ Git Config   5 mins          -------------------------   00.07 %
 <!--END_SECTION:waka-->
 
 <div align="center" style="text-align:center">
-    <img src="https://wakatime.com/share/@Mahad871/0c68d4be-28c4-4f4c-8c98-239abe4c2914.svg" alt="languages" align="middle" height=400>
+    <img src="https://wakatime.com/share/@Mahad871/6d09ae3c-9f10-4cdf-a040-0296962be1d7.svg" alt="languages" align="middle" height=400>
 </div>
 
 ---
