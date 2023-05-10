@@ -19,7 +19,6 @@
 
 ## **📊 Stats**
 
-https://github-readme-stats-ruby-one.vercel.app
 <div align="center" style="text-align:center">
     <a href="#">
         <img width="50%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Mahad871&show_icons=true&theme=monokai&count_private=true"
