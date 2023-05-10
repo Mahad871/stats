@@ -25,7 +25,7 @@
             alt="Mahad871's Github stats">
     </a>
     <a href="#">
-        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad871&theme=monokai"
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Mahad871&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
             alt="Mahad871's Github commit streak">
     </a>
 </div>
