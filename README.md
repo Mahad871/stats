@@ -6,7 +6,6 @@
 	<img src="https://komarev.com/ghpvc/?username=Mahad871&label=Profile%20views&color=0e75b6&style=plastic" alt="Mahad871" /> 
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 	</a>
-<!-- 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="hassan-zafar" target="_blank"/>  -->
 	
 ---
 
