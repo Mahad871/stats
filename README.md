@@ -18,10 +18,10 @@
 ---
 
 ## **📊 Stats**
-
+ 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="50%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Mahad871&show_icons=true&theme=monokai&count_private=true"
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mahad871&&show_icons=true&count_private=true&hide_border=true&theme=radical"
             alt="Mahad871's Github stats">
     </a>
     <a href="#">
