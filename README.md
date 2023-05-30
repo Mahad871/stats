@@ -17,6 +17,12 @@
 
 ---
 
+# 💻 Tech Stack:
+
+	comming soon !
+
+---
+
 ## **📊 Stats**
  
 <div align="center" style="text-align:center">
