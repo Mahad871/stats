@@ -19,7 +19,7 @@
 
 # 💻 Tech Stack:
 
-	comming soon !
+<p>loading....!</p>
 
 ---
 
