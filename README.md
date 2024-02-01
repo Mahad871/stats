@@ -13,7 +13,7 @@
 
 - 🌱 I'm a FLutter Developer.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Fun fact: can mimic people.
+- ⚡ Fun fact: can mimic people.
 
 ---
 
