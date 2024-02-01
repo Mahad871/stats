@@ -13,7 +13,7 @@
 
 - 🌱 I'm a FLutter Developer.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out for a ride 🚴
+- ⚡ Fun fact: Fun fact: can mimic people.
 
 ---
 
