@@ -38,7 +38,7 @@
 <br>
 
 <div align="center" style="text-align:center">
-    <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake.svg" alt="snake" align="center">
+    <img src="https://github.com/Mahad871/Mahad871/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" align="center">
 </div>
 <br>
 
