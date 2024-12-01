@@ -48,9 +48,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2023 - To: 28 November 2024
+From: 20 February 2023 - To: 30 November 2024
 
-Total Time: 602 hrs 47 mins
+Total Time: 602 hrs 49 mins
 
 Dart              372 hrs 17 mins >>>>>>>>>>>>>>>----------   61.76 %
 Python            75 hrs 46 mins  >>>----------------------   12.57 %
