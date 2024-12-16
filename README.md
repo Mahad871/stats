@@ -6,7 +6,11 @@
 	<img src="https://komarev.com/ghpvc/?username=Mahad871&label=Profile%20views&color=0e75b6&style=plastic" alt="Mahad871" /> 
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 	</a>
-	
+	<a href = "https://github.com/Mahad871/Flutter-Projects" target="_blank">
+ 	<img src="https://img.shields.io/badge/Try%20My%20Apps-Click%20Here-red" alt="Mahad871" /> 
+	</a>
+
+
 ---
 
 ## **😊 About me**
