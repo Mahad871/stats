@@ -15,7 +15,8 @@
 
 ## **😊 About me**
 
-- 🌱 I'm a FLutter Developer.
+- 🌱 I'm a Software Engineer with experience in Flutter, Deep Learning, Generative AI, BlockChain and Smart Contracts.
+- ⚠️ On a Mission to mitigate traffic violations using Deep Learning.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: can mimic people.
 
